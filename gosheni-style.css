@@ -1,1 +1,3 @@
-<link href="https://cdn.jsdelivr.net/gh/clearsky1224/matomarketing@main/gosheni-style.css" type="text/css" rel="stylesheet"/>
+.btg-content-wrap>.s_allow_columns.container {
+    max-width: 550px;
+}
